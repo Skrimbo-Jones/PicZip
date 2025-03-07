@@ -6,7 +6,7 @@ Instructions:
 
 1. Place the PicZip-main folder on your C: as the program relies on folder structure to work.
 
-2. Place a picture into the PicZip folder and rename it to "Picture".
+2. Place a picture into the PicZip-main folder and rename it to "Picture".
 
 3. Choose a file to place inside the picture. Compress this file into a .zip file named "x".
 
