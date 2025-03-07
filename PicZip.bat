@@ -17,8 +17,8 @@ set /p type=
 echo Type the name of the newly created picture:
 set /p name= 
 cd/
-cd PicZip
+cd PicZip-main
 copy /b Picture.%type% + x.zip %name%.%type%
 cls
-echo All done! Check the folder "PicZip" and your picture will be in there.
+echo All done! Check the folder "PicZip-main" and your picture will be in there.
 pause
