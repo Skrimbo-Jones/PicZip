@@ -4,7 +4,7 @@ This creates a picture that holds files within it. It can then be opened in some
 
 Instructions:
 
-1. Place the PicZip folder on your C: as the program relies on folder structure to work.
+1. Place the PicZip-main folder on your C: as the program relies on folder structure to work.
 
 2. Place a picture into the PicZip folder and rename it to "Picture".
 
